@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/open-telemetry/opentelemetry-python/releases">
+  <a href="https://github.com/open-telemetry/opentelemetry-python/releasesx">
     <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/open-telemetry/opentelemetry-python?include_prereleases&style=for-the-badge">
   </a>
   <a href="https://codecov.io/gh/open-telemetry/opentelemetry-python/branch/main/">
